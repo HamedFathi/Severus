@@ -1,2 +1,2 @@
 # Severus
-A parser toolkit.
+A simple parser toolkit.
